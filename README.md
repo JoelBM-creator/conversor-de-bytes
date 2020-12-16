@@ -12,7 +12,6 @@ You can modify and use this repository however you want <br /> but please refer 
 <br />
 
 <br />
-## Error
 ```diff
 - E/eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
 <br />
