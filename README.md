@@ -12,15 +12,14 @@ You can modify and use this repository however you want <br /> but please refer 
 <br />
 
 <br />
-```diff
-- E/eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=E/eglCodecCommon: GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1) `#f03c15`
 <br />
-@@ To resolve this error, we add the following code to the Gradle (Project) within the repositories:
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text= To resolve this error, we add the following code to the Gradle (Project) within the repositories:) `#c5f015`
 <br />
-mavenCentral() @@
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=mavenCentral()) `#c5f015`
 <br />
 [a link] (https://stackoverflow.com/questions/58962124/e-eglcodeccommon-goldfishaddressspacehostmemoryallocator-ioctl-ping-failed-for)
-```
+
 
 <br /> <br />
 ## About me
