@@ -18,7 +18,7 @@ To resolve this error, we add the following code to the Gradle (Project) within 
 <br />
 mavenCentral()
 <br />
-[a link] (https://stackoverflow.com/questions/58962124/e-eglcodeccommon-goldfishaddressspacehostmemoryallocator-ioctl-ping-failed-for)
+https://stackoverflow.com/questions/58962124/e-eglcodeccommon-goldfishaddressspacehostmemoryallocator-ioctl-ping-failed-for
 
 
 <br /> <br />
