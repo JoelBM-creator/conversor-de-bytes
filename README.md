@@ -11,6 +11,7 @@ But for a first contact with Android Studio it is not bad.
 You can modify and use this repository however you want <br /> but please refer the creator, thanks ♥ .
 <br />
 
+## Error
 <br />
 GoldfishAddressSpaceHostMemoryAllocator: ioctl_ping failed for device_type=5, ret=-1
 <br />
