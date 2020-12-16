@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convertidor de bytes</string>
+    <string name="select_unid">Seleccionar unidades disponibles:</string>
+    <string name="escribir_num">Escriba la unidad a convertir.</string>
+    <string name="num_string">0</string>
+    <string name="string_btn">Convertir</string>
+    <string name="copy_right">Diseñado por Joel B.</string>
+    <string name="desc_img">Logo de LinkiaFP</string>
+</resources>
